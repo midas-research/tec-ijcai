@@ -1,6 +1,6 @@
 #TEC: A Time Evolving Contextual Graph Model for Speaker State Analysis in Political Debates
 
-This codebase contains the python scripts for STHAN-SR, the model for the IJCAI 2021 paper "TEC: A Time Evolving Contextual Graph Model for Speaker State Analysis in Political Debates".
+This codebase contains the python scripts for TEC, the model for the IJCAI 2021 paper "TEC: A Time Evolving Contextual Graph Model for Speaker State Analysis in Political Debates".
 
 ## Environment & Installation Steps
 Python 3.6, Pytorch, Pytorch-Geometric and networkx.
@@ -17,7 +17,7 @@ Download the dataset and follow preprocessing steps from [here](https://github.c
 
 ## Run
 
-Execute the following python command to train STHAN-SR: 
+Execute the following python command to train TEC: 
 ```python
 python train_model.py
 ```
